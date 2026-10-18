@@ -1,40 +1,15 @@
 # 👋 Olá! Eu sou Pedro Brasil
 
-💻 **Front-End Developer | HTML • CSS • JavaScript**
+💻 **Desenvolvedor Full Stack | Node.js • Express • PostgreSQL • Docker • JavaScript**
 
 Seja bem-vindo ao meu GitHub!
 
-Sou Desenvolvedor Front-End Freelancer apaixonado por tecnologia e pelo desenvolvimento de soluções que unem qualidade, performance e uma excelente experiência para o usuário. Acredito que programar é muito mais do que escrever código: é transformar ideias em projetos que geram valor e resolvem problemas reais.
+Sou Desenvolvedor Full Stack apaixonado por tecnologia e pelo desenvolvimento de soluções completas que unem qualidade, performance, segurança e uma excelente experiência para o usuário. Acredito que programar é muito mais do que escrever código: é transformar ideias em aplicações robustas que geram valor real para negócios.
 
-Ao longo da minha jornada, venho desenvolvendo projetos Front-End como freelancer, sempre buscando aplicar boas práticas de desenvolvimento, código limpo, organização e interfaces modernas, responsivas e intuitivas. Cada projeto representa uma oportunidade de aprender, evoluir e entregar resultados com excelência.
+Ao longo da minha jornada, venho construindo e arquitetando aplicações web Full Stack, atuando desde a criação de APIs RESTful estruturadas, controle de rotas autenticadas (JWT), gestão de bancos de dados relacionais e conteinerização em Docker até a construção de interfaces modernas, responsivas e intuitivas no Front-End. Cada projeto representa uma oportunidade de aplicar código limpo, boas práticas e arquiteturas escaláveis.
 
-Tenho um compromisso diário com a evolução profissional. Estudo todos os dias para aprimorar minhas habilidades, acompanhar as novas tecnologias do mercado e construir uma base sólida que me permita atuar como Desenvolvedor Full Stack. Acredito que o aprendizado contínuo é um dos maiores diferenciais de um profissional de tecnologia.
+Tenho um compromisso diário com a evolução profissional. Estudo constantemente para aprimorar minhas habilidades, dominar novas tecnologias do mercado e consolidar uma base cada vez mais sólida e avançada no ecossistema Full Stack. Acredito que o aprendizado contínuo e a execução prática são os maiores diferenciais de um profissional de tecnologia.
 
-Sou uma pessoa movida por desafios e apaixonada por inovação. Gosto de transformar conhecimento em projetos reais, explorar novas tecnologias e evoluir constantemente como desenvolvedor. Meu objetivo é construir aplicações cada vez mais completas, escaláveis e de alto desempenho.
+Sou uma pessoa movida por desafios e focada na resolução de problemas. Gosto de transformar conhecimento técnico em produtos funcionais, explorar novas ferramentas de automação e evoluir constantemente. Meu objetivo é construir sistemas cada vez mais completos, performáticos e escaláveis.
 
-Além da programação, também possuo experiência como Gestor de Tráfego Pago, desenvolvendo estratégias de marketing digital voltadas para geração de clientes e crescimento de negócios. Essa experiência fortaleceu minha visão estratégica, meu foco em resultados e minha capacidade de compreender as necessidades de empresas e usuários, agregando ainda mais valor ao meu trabalho como desenvolvedor.
-
-## 🚀 Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Responsive Design
-
-## 🎯 Atualmente
-
-- 💻 Desenvolvendo projetos Front-End como Freelancer
-- 📚 Estudando diariamente para me tornar Desenvolvedor Full Stack
-- 🚀 Aprimorando minhas habilidades em desenvolvimento web
-- 🎯 Construindo um portfólio sólido com projetos práticos
-- 📈 Evoluindo continuamente como profissional de tecnologia
-
-## 🤝 Vamos nos conectar!
-
-Estou sempre aberto a novos desafios, oportunidades profissionais e projetos que me permitam crescer como desenvolvedor e contribuir com soluções que façam a diferença.
-
-Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução.
-
-> **"A tecnologia evolui todos os dias. Por isso, escolhi evoluir junto com ela, um projeto e uma linha de código de cada vez."** 🚀
+Além da programação, também possuo experiência de mais de 2 anos como Gestor de Tráfego Pago e automação, desenvolvendo estratégias de marketing digital voltadas para geração de clientes e crescimento de empresas. Essa bagagem fortalece minha visão estratégica, meu foco em métricas/resultados e minha capacidade de compreender as reais necessidades de negócios e usuários, agregando ainda mais valor ao meu trabalho como desenvolvedor.
